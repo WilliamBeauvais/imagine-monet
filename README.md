@@ -22,7 +22,9 @@ Lieu de présentation initiale : Grand Palais à Paris
 
 Contexte géographique et culturel : Renaissance de l'Impressionnisme en utilisant la popularité des expositions immersives. Grand Palais est digne de la grandeur du projet et il est parfait pour avoir un large public.
 
-Autres lieux de présentation : Montréal :
+Autres lieux de présentation :
+
+Montréal :
 
 16 septembre 2022 - 21 janvier 2023
 
