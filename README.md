@@ -1,9 +1,9 @@
  # [Imagine Monet](https://youtu.be/um1Bd0ZllII?t=26)
 ![](img/imagine-monet.avif)
 ## Qui?
-Annabelle Mauger ( co-gérante, directrice artistique )
+[Annabelle Mauger ( co-gérante, directrice artistique )
 
-Julien Baron ( co-gérant, designer, directeur technique )
+Julien Baron ( co-gérant, designer, directeur technique )](https://www.lililillilil.com/fr/createurs-annabelle-mauger-julien-baron)
 
 Androula Michael ( historienne de l'art )
 
