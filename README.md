@@ -5,34 +5,24 @@ Annabelle Mauger ( co-gérante, directrice artistique )
 
 Julien Baron ( co-gérant, designer, directeur technique )
 
-Partenaires : Androula Michael ( historienne de l'art ), Tandem Expositions, Encore Productions
+Androula Michael ( historienne de l'art )
+
+Partenaires : Arsenal, Tandem Expositions, Encore Productions
 ![](img/annabelle-mauger-julien-baron.jpg)
 ## Quand?
-Conception : 2015
-
-Développpement : 2016
-
-Production : Septembre 2016
-
-Date de première présentation : 1er octobre 2016
-
-Date première représentation à Montréal : 6 décembre 2021
+Date de première présentation : [ Montréal (15 Dec 2021 - 10 Avr 2022)](https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/imagine-monet)
 ## Où?
-Lieu de présentation initiale : Grand Palais à Paris
+Lieu de présentation initiale : Montréal
 
 Contexte géographique et culturel : Renaissance de l'Impressionnisme en utilisant la popularité des expositions immersives. Grand Palais est digne de la grandeur du projet et il est parfait pour avoir un large public.
 
 Autres lieux de présentation :
 
-Montréal :
+2022 : Edmonton, Québec, Ottawa
 
-16 septembre 2022 - 21 janvier 2023
+2023 : Londres, Stockholm
 
-Toronto : 23 mars 2023 - 23 juillet 2023
-
-New York : 6 novembre 2023 - 3 mars 2024
-
-Tokyo : 15 avril 2024 - 15 juillet 2024
+2024 : Tacoma, Djeddah
 ## Quoi?
 Description générale : Imagine Monet est une expérience immersive qui plonge le spectateur dans les oeuvres de Monet. Les visiteurs sont entourés par les peintures animées pour créer un effet dynamique.
 
