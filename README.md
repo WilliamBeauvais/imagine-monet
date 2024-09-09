@@ -38,6 +38,6 @@ Composante centrale : La projection numérique sur des énormes rideaux.
 
 Fonctionnement : Ça plonge le visiteur dans l'oeuvre ce qui aide à l'appréciation de celle-ci et à l'attention que le grand public porte aux peintures de Monet. Ça aide à cultiver les gens qui n'auraient peut-être pas beaucoup aimé Monet dans sa forme originale.
 
-Impact : C'est rare qu'une oeuvre transporte autant les gens dans un monde parrallèle, surtout s'ils n'aiment pas beaucoup la peinture. Je trouve que l'objectif du grand public est très réussi.
+Impact : C'est rare qu'une oeuvre transporte autant les gens dans un monde parrallèle en utilisant seulement de la projection et du son, surtout s'ils n'aiment pas beaucoup la peinture. Je trouve que l'objectif du grand public est très réussi.
 ## Pourquoi j'ai choisi cet oeuvre?
 J'aime les oeuvres simples qui ne nécéssite pas trop d'attention et de réflexion et vu que c'est fait pour le grand public c'était parfait. Monet a un style apaisant donc ça fait du bien de se perdre dans une de ses oeuvres.
