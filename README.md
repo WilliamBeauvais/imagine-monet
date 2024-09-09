@@ -5,9 +5,9 @@
 
 [Julien Baron ( co-gérant, designer, directeur technique )](https://www.lililillilil.com/fr/createurs-annabelle-mauger-julien-baron)
 
-Androula Michael ( historienne de l'art )
 
-Partenaires : Arsenal, Tandem Expositions, Encore Productions
+
+Partenaires :Androula Michael ( historienne de l'art ), Arsenal art contemporain, Tandem Expositions, Encore Productions
 ![](img/annabelle-mauger-julien-baron.jpg)
 ## Quand?
 Date de première présentation : [ Montréal (15 Dec 2021 - 10 Avr 2022)](https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/imagine-monet)
