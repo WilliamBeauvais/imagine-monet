@@ -1,4 +1,4 @@
-# Imagine Monet 
+ # [Imagine Monet](https://youtu.be/um1Bd0ZllII?t=26)
 ![](img/imagine-monet.avif)
 ## Qui?
 Annabelle Mauger ( co-gérante, directrice artistique )
@@ -12,9 +12,9 @@ Partenaires : Arsenal, Tandem Expositions, Encore Productions
 ## Quand?
 Date de première présentation : [ Montréal (15 Dec 2021 - 10 Avr 2022)](https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/imagine-monet)
 ## Où?
-Lieu de présentation initiale : Montréal
+Lieu de présentation initiale : [Arsenal art contemporain - Montréal](https://www.google.ca/maps/place/Arsenal+art+contemporain/@45.4853248,-73.5719032,16z/data=!3m1!4b1!4m6!3m5!1s0x4cc91a7ca0194799:0xea8e18d78e6ea7c3!8m2!3d45.4853248!4d-73.5693283!16s%2Fg%2F11cllnl__9?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D)
 
-Contexte géographique et culturel : Renaissance de l'Impressionnisme en utilisant la popularité des expositions immersives. Grand Palais est digne de la grandeur du projet et il est parfait pour avoir un large public.
+Contexte culturel : Renaissance de l'Impressionnisme en utilisant la popularité des expositions immersives.
 
 Autres lieux de présentation :
 
