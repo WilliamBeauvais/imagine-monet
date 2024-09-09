@@ -1,5 +1,5 @@
 # Imagine Monet 
-![]()
+![](img/imagine-monet.avif)
 ## Qui?
 Annabelle Mauger ( co-gérante, directrice artistique )
 
