@@ -6,7 +6,7 @@ Annabelle Mauger ( co-gérante, directrice artistique )
 Julien Baron ( co-gérant, designer, directeur technique )
 
 Partenaires : Androula Michael ( historienne de l'art ), Tandem Expositions, Encore Productions
-![](img/)
+![](img/annabelle-mauger-julien-baron.jpg)
 ## Quand?
 Conception : 2015
 
