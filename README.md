@@ -8,7 +8,7 @@ Les Échos du Temps
 ## Scénario
 Le projet se déroule dans un espace d'exposition conçu comme un labyrinthe temporel. Chaque section du labyrinthe représente une époque ou un événement marquant, allant de l'antiquité à des moments contemporains. Les visiteurs sont invités à suivre un parcours guidé, mais libre, où ils rencontrent des installations interactives qui leur racontent des histoires à travers différents médias.
 
-![scénarimage](img/scenarimage.drawio)
+![scénarimage](img/scenarimage.drawio.png)
 
 ## Impact et Objectifs
 L'objectif est d'engager le public dans une réflexion sur la manière dont nos histoires personnelles s'entrelacent avec l'histoire collective. Ce projet vise à créer un dialogue intergénérationnel et à encourager la préservation des récits humains à travers les âges.
