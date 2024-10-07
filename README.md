@@ -10,6 +10,13 @@ Le projet se déroule dans un espace d'exposition conçu comme un labyrinthe tem
 
 ![scénarimage](img/scenarimage.drawio.png)
 
+## Ambiance
+![préhistoire](img/prehistoire.png)
+![antiquité](img/antiquite.webp)
+![moyen-age](img/moyenage.jpg)
+![temps moderne](img/moderne.webp)
+![epoque contemporaine](img/contemporaine.webp)
+
 ## Impact et Objectifs
 L'objectif est d'engager le public dans une réflexion sur la manière dont nos histoires personnelles s'entrelacent avec l'histoire collective. Ce projet vise à créer un dialogue intergénérationnel et à encourager la préservation des récits humains à travers les âges.
 
