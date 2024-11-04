@@ -1,4 +1,4 @@
-# Scénarisation
+# Planification
 ## Titre
 Les Échos du Temps
 ![préhistoire](img/prehistoire.png)
@@ -7,7 +7,7 @@ Les Échos du Temps
 
 
 ## Identification de ressources matérielles disponibles (ordinateurs, studio, logiciels, médias, casques virtuels)
-
+Ordinateur, Petit Studio/Petit coin dans le studio, projecteurs, fausse torche qui fait de la lumière, haut-parleurs, Kinect, Obs, 
 
 ## Performances techniques en fonction des exigences du projet
 
