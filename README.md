@@ -10,3 +10,4 @@ Les Échos du Temps
 Ordinateur, Petit Studio/Petit coin dans le studio, projecteurs, fausse torche qui fait de la lumière, haut-parleurs, Kinect, Obs, 
 
 ![synoptique](img/synoptique.drawio.png)
+![plan](img/plan.drawio.png)
